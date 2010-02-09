@@ -17,7 +17,9 @@ to perform a 'pacman -Syu'.
 Other useful things
 ===================
 
- * Check your mirror's last update time:
-[https://www.archlinux.de/?page=MirrorStatus]
- * Check the latency of the available mirrors:
-[http://github.com/imrehg/archalice] (might be merged into this project later)
+ * Check your mirror's last update time: [mirrorstatus]
+ * Check the latency of the available mirrors: [archalice] (might be merged into this project later)
+
+[mirrorstatus] https://www.archlinux.de/?page=MirrorStatus "ArchLinuxDE MirrorStatus"
+[archalice] http://github.com/imrehg/archalice
+
